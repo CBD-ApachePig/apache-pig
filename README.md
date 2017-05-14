@@ -6,4 +6,6 @@ Para la ejecución de cada uno de los scripts se debe tener instalado tanto **Ap
 
 pig -x local <archivo.pig>
 
+El dataset se puede encontrar en el siguiente repositorio: https://github.com/codeforspain/ds-poblacion
+
 Una traza del proceso de ejecución de los scripts aportado en este repositorio se puede visualizar en el siguiente vídeo: https://www.youtube.com/watch?v=RwyRoxpyexc&feature=youtu.be
